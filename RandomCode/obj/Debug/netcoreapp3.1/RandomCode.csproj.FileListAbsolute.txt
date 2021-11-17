@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\bin\Debug\netcoreapp3.1\RandomCode.exe
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\bin\Debug\netcoreapp3.1\RandomCode.deps.json
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\bin\Debug\netcoreapp3.1\RandomCode.runtimeconfig.json
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\bin\Debug\netcoreapp3.1\RandomCode.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\bin\Debug\netcoreapp3.1\RandomCode.dll
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\bin\Debug\netcoreapp3.1\RandomCode.pdb
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\obj\Debug\netcoreapp3.1\RandomCode.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\obj\Debug\netcoreapp3.1\RandomCode.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\obj\Debug\netcoreapp3.1\RandomCode.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\obj\Debug\netcoreapp3.1\RandomCode.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\obj\Debug\netcoreapp3.1\RandomCode.dll
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\obj\Debug\netcoreapp3.1\RandomCode.pdb
+C:\Users\opilane\source\repos\LogItpe21\BlackSheep\RandomCode\obj\Debug\netcoreapp3.1\RandomCode.genruntimeconfig.cache
